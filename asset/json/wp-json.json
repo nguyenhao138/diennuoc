@@ -1,0 +1,5 @@
+{
+  "code": "REST API is disabled",
+  "message": "API is disabled",
+  "data": { "status": 401 }
+}

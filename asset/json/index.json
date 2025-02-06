@@ -1,0 +1,12 @@
+{
+  "@type": "Website",
+  "@id": "https://diennuocag.com.vn#website",
+  "url": "index.html",
+  "name": "Powaco",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://diennuocag.com.vn?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "@context": "https://schema.org"
+}
